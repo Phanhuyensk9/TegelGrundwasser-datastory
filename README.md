@@ -4,9 +4,9 @@
 
 Studentisches Projekt im Kurs *Big Data* an der HTW Berlin (2026). Wir haben untersucht, ob und wie das Grundwasser auf dem ehemaligen Flughafengelände Berlin-Tegel auf Niederschlag reagiert. Die Ergebnisse haben wir als Data Story für ein breites Publikum (ab ca. 12 Jahren) aufbereitet.
 
-**Ergebnis ansehen:** **[Website öffnen](https://phanhuyensk9.github.io/TegelGrundwasser-datastory/)** – die Data Story läuft direkt im Browser, ohne Installation. Lokal: [`docs/index.html`](docs/index.html) im Browser öffnen.
+**Ergebnis ansehen:** **[Website öffnen](https://phanhuyensk9.github.io/TegelGrundwasser-datastory/tegel-datastory-einzeldatei.html)** – die Data Story läuft direkt im Browser, ohne Installation. Lokal: [`docs/tegel-datastory-einzeldatei.html`](docs/tegel-datastory-einzeldatei.html) im Browser öffnen.
 
-[![Screenshot der Website](docs/screenshots/hero.png)](https://phanhuyensk9.github.io/TegelGrundwasser-datastory/)
+[![Screenshot der Website](docs/screenshots/hero.png)](https://phanhuyensk9.github.io/TegelGrundwasser-datastory/tegel-datastory-einzeldatei.html)
 
 **Analyse ansehen:** [`Grundwasser.pbix`](Grundwasser.pbix) mit Power BI Desktop öffnen. Der Bericht enthält die vollständige Auswertung mit allen Diagrammen und Kennzahlen (siehe [Power-BI-Bericht](#power-bi-bericht)).
 
