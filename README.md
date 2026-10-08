@@ -4,9 +4,9 @@
 
 Studentisches Projekt im Kurs *Big Data* an der HTW Berlin (2026). Wir haben untersucht, ob und wie das Grundwasser auf dem ehemaligen Flughafengelände Berlin-Tegel auf Niederschlag reagiert. Die Ergebnisse haben wir als Data Story für ein breites Publikum (ab ca. 12 Jahren) aufbereitet.
 
-**Ergebnis ansehen:** **[Website öffnen](https://phanhuyensk9.github.io/TegelGrundwasser-datastory/docs/)** – die Data Story läuft direkt im Browser, ohne Installation. Lokal: [`docs/index.html`](docs/index.html) im Browser öffnen.
+**Ergebnis ansehen:** **[Website öffnen](https://phanhuyensk9.github.io/TegelGrundwasser-datastory/)** – die Data Story läuft direkt im Browser, ohne Installation. Lokal: [`docs/index.html`](docs/index.html) im Browser öffnen.
 
-[![Screenshot der Website](docs/screenshots/hero.png)](https://phanhuyensk9.github.io/TegelGrundwasser-datastory/docs/)
+[![Screenshot der Website](docs/screenshots/hero.png)](https://phanhuyensk9.github.io/TegelGrundwasser-datastory/)
 
 **Analyse ansehen:** [`Grundwasser.pbix`](Grundwasser.pbix) mit Power BI Desktop öffnen. Der Bericht enthält die vollständige Auswertung mit allen Diagrammen und Kennzahlen (siehe [Power-BI-Bericht](#power-bi-bericht)).
 
@@ -145,7 +145,7 @@ Das Skript liest `data/raw/`, prüft die Kennzahlen, schreibt `data/processed/` 
 
 ### Website veröffentlichen
 
-Auf GitHub: *Settings → Pages → Branch `main`, Ordner `/ (root)`*. Danach ist die Website unter [https://phanhuyensk9.github.io/TegelGrundwasser-datastory/docs/](https://phanhuyensk9.github.io/TegelGrundwasser-datastory/docs/) erreichbar.
+Auf GitHub: *Settings → Pages → Branch `main`, Ordner `/docs`*. Danach ist die Website unter [https://phanhuyensk9.github.io/TegelGrundwasser-datastory/](https://phanhuyensk9.github.io/TegelGrundwasser-datastory/) erreichbar.
 
 ## Weiterarbeiten – Hinweise für Projektpartner
 
